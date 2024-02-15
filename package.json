@@ -4,6 +4,7 @@
   "description": "",
   "main": "server.js",
   "scripts": {
+    "start": "node server.js",
     "local": "node -r dotenv/config --watch server.js"
   },
   "author": "Thomas Chan",
